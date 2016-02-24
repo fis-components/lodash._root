@@ -1,0 +1,10 @@
+{
+    "name": "lodash._root",
+    "description": "The internal lodash function `root` exported as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "3.0.0"
+}
